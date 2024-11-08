@@ -10,3 +10,15 @@ google-chrome
 ```
 sudo apt install git
 ```
+## nodejs
+```
+sudo apt install nodejs
+```
+## nodejs
+```
+sudo apt install nodejs
+```
+## npm
+```
+sudo apt install npm
+```
