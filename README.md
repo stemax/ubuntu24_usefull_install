@@ -14,10 +14,6 @@ sudo apt install git
 ```
 sudo apt install nodejs
 ```
-## nodejs
-```
-sudo apt install nodejs
-```
 ## npm
 ```
 sudo apt install npm
